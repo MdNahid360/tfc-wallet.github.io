@@ -2,7 +2,7 @@
 ######**simple javascript project #1**
  
 <img src="https://i.ibb.co/bRDnsdg/ns.jpg" width="100%"/>
-###### Preview : https://mdnahid360.github.io/tfc-wallet.github.io/
+Preview : https://mdnahid360.github.io/tfc-wallet.github.io/ <br/>
 - TFC WALLET is a simple bank web application.
 - This is a simple javascript project.
 - Here we have seen how to update any value <br/> through JavaScript event handler
