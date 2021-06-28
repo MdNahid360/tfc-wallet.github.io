@@ -1,0 +1,255 @@
+/* font-family: ;
+font-family: 
+font-family:  */
+:root{
+  --fon1 : 'Josefin Sans', sans-serif;
+  --fon2 : 'Ubuntu', sans-serif;
+   --fon3 : 'Varela Round', sans-serif;;
+}
+h1 {
+  color: white;
+  background-color: black;
+}
+.logo{
+  border-radius: 100%;
+  background-color: rgba(247, 247, 247, 0.521);
+  width: 50px;
+  overflow: hidden!important;
+}
+.logo img{
+  border-radius: 100%!important;
+  height: 100%;
+  width: 100%;
+}
+.logo-brand{
+   font-family: var(--fon2)!important;
+   font-weight: 900;
+   color: rgb(255, 255, 255);
+
+}
+nav{
+  position: fixed!important;
+  width: 100%!important;
+  background-image: linear-gradient(30deg, rgb(13, 13, 14),rgb(30, 0, 37));
+  z-index: 1000!important;
+}
+
+body{
+  width: 100%!important;
+  height:100vh!important;
+}
+.main{
+    background-image: linear-gradient(rgba(255, 0, 0, 0.164), rgba(255, 255, 0, 0.11)),url(../img/halftone-background-with-circles_23-2148907689.jpg);
+    background-size: cover;
+    background-position:center;
+    width: 100vw!important;
+    height: 100vh!important;
+    background-repeat: no-repeat;
+    overflow-x: hidden!important;
+}
+
+.collapse-area{
+   
+ 
+   background-color: rgb(255, 255, 255)!important;
+    width: 100vw!important;
+    height: 100vh!important;
+    background-repeat: no-repeat;
+    overflow-x: hidden!important;
+}
+.m{
+  display: flex!important;
+  align-items: center!important;
+  justify-content: center!important;
+  width: 100vw!important;
+  height: 100vh!important;
+ }
+
+.main-box{
+
+ background-image: linear-gradient(rgba(0, 0, 0, 0.116),  rgb(3, 38, 56));
+  width: 100%!important;
+  height: 100%!important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card-box{
+  padding: 20px;
+  background:rgb(134, 129, 138)!important;
+ }
+.card{
+  background:transparent!important;
+}
+.card-logo{
+  width: 90px;
+}
+
+.tx-1{
+  font-family: var(--fon3)!important;
+  font-size: 25px;
+}
+
+input{
+  border-radius: 80px!important;
+}
+.login-btn{
+  background-image: linear-gradient(rgb(178, 0, 214), rgb(190, 0, 142));
+  width: 50%!important;
+  border-radius: 180px!important;
+  font-weight: bold!important;
+  border: 0px!important;
+  box-shadow: 0px 2px 9px 0px rgb(81, 2, 134);
+}
+
+.navbar{
+  width: 100%!important;
+  position: fixed!important;
+
+}
+
+
+.animt {
+   
+   animation: mymove 5s infinite;
+}
+
+@keyframes mymove {
+  0%   {   
+
+    box-shadow:0px 2px 9px 0px gray;
+    border-radius:15px;
+  
+  }
+  25%  {  
+      
+      box-shadow:0px 2px 12px 0px rgb(128, 0, 247);
+      border-radius:15px;
+  
+  }
+  50%  {  
+
+    box-shadow:0px 2px 9px 0px rgb(67, 0, 252);
+    border-radius:15px;
+
+  
+  }
+  100% { 
+    
+    box-shadow:0px 2px 9px 0px rgb(0, 162, 255);
+    border-radius:15px;
+
+  
+  }
+}
+
+
+#wallet_area{
+ 
+  display: none;
+}
+
+.deposit-box{
+   width:100%;
+    background-image: linear-gradient(rgba(146, 0, 243, 0.055),rgba(153, 0, 255, 0.979)),url(../img/halftone-background-with-lines_23-2148907691.jpg);
+}
+
+.withdraw-box{
+   width: 100%;
+    background-image: linear-gradient(rgba(146, 0, 243, 0.055),rgba(153, 0, 255, 0.979)),url(../img/halftone-background-with-lines_23-2148907691.jpg);
+}
+
+.curency{
+  font-weight: 900!important;
+  font-size: 25px!important;
+  color: rgb(255, 255, 255)!important;
+}
+
+.wallet-info{
+   width: 160px!important;
+   background-image: linear-gradient(rgba(146, 0, 243, 0.055),rgba(153, 0, 255, 0.979)),url(../img/halftone-background-with-lines_23-2148907691.jpg)!important;
+} 
+ 
+
+.wallet-info-balance{
+ 
+   background-image: linear-gradient(rgba(146, 0, 243, 0.055),rgba(153, 0, 255, 0.979)),url(../img/halftone-background-with-lines_23-2148907691.jpg)!important;
+} 
+
+.inpt{
+     border-radius: 0px!important;
+     border-top-left-radius: 10px!important;
+    border-bottom-left-radius: 10px!important;
+    box-shadow: 0px 4px 8px 0px rgba(128, 128, 128, 0.205);
+}
+
+.submit-btn{
+  box-shadow: 2px 4px 8px 0px gray;
+  text-align: center!important;
+  width: 90px!important;
+  border-top-right-radius: 10px!important;
+  border-bottom-right-radius: 10px!important;
+   
+  color: #fff!important;
+  background-image:linear-gradient(rgb(132, 0, 255), rgb(61, 0, 117));
+}
+
+
+.welcome_section{
+  background-image: linear-gradient( rgba(2, 0, 0, 0.397), rgb(35, 5, 54)),url(../img/halftone-background-with-circles_23-2148907689.jpg);
+    background-size: cover;
+    background-position: center;
+     width: 100vw!important;
+     height: 100vh!important;
+    display: none;
+}
+
+
+.start-box{
+  width: 100vw!important;
+  height: 100vh!important;
+}
+
+#user{
+  display: none;
+}
+
+
+.btn-start{
+  background-image: linear-gradient(30deg, rgba(255, 0, 119, 0.959), rgba(0, 26, 255, 0.438)),url(../img/thum.gif)!important;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  border: 0px!important;
+  font-size: 25px!important;
+  color: #fff!important;
+  margin: auto!important;
+  padding: 11px 70px!important;
+  border-radius: 190px!important;
+  animation: btnAnimat 5s infinite;
+}
+
+@keyframes btnAnimat {
+  0%   {   
+
+      box-shadow: 0px 2px 14px 0px rgba(193, 0, 252, 0.842);
+  
+  }
+  25%  {  
+      
+       box-shadow: 0px 2px 14px 0px rgba(252, 0, 155, 0.637);
+  
+  }
+  50%  {  
+
+      box-shadow: 0px 2px 14px 0px rgba(0, 38, 252, 0.397);
+
+  
+  }
+  100% { 
+    
+      box-shadow: 0px 2px 14px 0px rgba(193, 0, 252, 0.397);
+
+  
+  }
+}
