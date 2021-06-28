@@ -1,12 +1,12 @@
 # TFC WALLET
 ######**simple javascript project #1**
  
-<img src="https://i.ibb.co/bRDnsdg/ns.jpg" width="100%"/>
-Preview : https://mdnahid360.github.io/tfc-wallet.github.io/ <br/>
-- TFC WALLET is a simple bank web application.
-- This is a simple javascript project.
-- Here we have seen how to update any value <br/> through JavaScript event handler
-
+<img src="https://i.ibb.co/bRDnsdg/ns.jpg" width="100%"/> 
+Preview : https://mdnahid360.github.io/tfc-wallet.github.io/ <br/><br/>
+<br/> TFC WALLET is a simple bank web application.
+<br/> This is a simple javascript project.
+<br/> Here we have seen how to update any value <br/> through JavaScript event handler
+<br/><br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdnahid360&label=Profile%20views&color=0e75b6&style=flat" alt="mdnahid360" /> </p>
 
