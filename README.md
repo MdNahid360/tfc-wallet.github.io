@@ -2,7 +2,7 @@
 ######**simple javascript project #1**
  
 <img src="https://i.ibb.co/bRDnsdg/ns.jpg" width="100%"/>
-#####[Preview](https://mdnahid360.github.io/tfc-wallet.github.io/ "Live View") 
+###### Preview : https://mdnahid360.github.io/tfc-wallet.github.io/
 - TFC WALLET is a simple bank web application.
 - This is a simple javascript project.
 - Here we have seen how to update any value <br/> through JavaScript event handler
@@ -25,6 +25,4 @@ Html,  CSS , JavaScript,
 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="30" height="30"/> </a> </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdnahid360&show_icons=true&locale=en&layout=compact" alt="mdnahid360" /></p> <br/>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdnahid360&show_icons=true&locale=en" alt="mdnahid360" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdnahid360&show_icons=true&locale=en&layout=compact" alt="mdnahid360" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdnahid360&show_icons=true&locale=en" alt="mdnahid360" /></p>
